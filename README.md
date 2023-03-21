@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Md. Anower Hossan.</h1>
 <h3 align="left">A Full Stack Web Developer.</h3>
 
-<h6 align="left" width="100%"><img src="https://pbs.twimg.com/profile_banners/1572308421470490625/1663703628/1080x360" alt="Cover Photo"><h6/>
+<h6 align="left"><img src="https://pbs.twimg.com/profile_banners/1572308421470490625/1663703628/1080x360" alt="Cover Photo"><h6/>
 I am professional Full Stack Web Developer with PHP Laravel. 
 I can  develop any kinds of new dynamic  website using PHP Laravel and customize Existing Laravel based web Application. 
 My HTML, CSS, Bootstrap skills are  very strong and I can convert PSD, XD, Figma to HTML with pixel perfect mobile responsive.
