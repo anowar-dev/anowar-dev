@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Anower Hossan.</h1>
-<h3 align="center">A Full Stack Web Developer.</h3>
+<h1 align="left">Hi 👋, I'm Md. Anower Hossan.</h1>
+<h3 align="left">A Full Stack Web Developer.</h3>
 
 ![I am a Full-stack web-developer.](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/308010735_510981131031612_2332890458961415596_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH1atS7UoJ8JslDzOnmDeCmC8OCDEF8WukLw4IMQXxa6WSEHRF0d2UAa2FY13I8tjxsfXo-FQpqEILDSBmxy-Gg&_nc_ohc=92uMl69tjQgAX_213w3&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AfD62nPWmGkeBslW6eCEqNpz6SThBFa8Hoq8otxvdS0rug&oe=641F3505)
 
@@ -12,7 +12,6 @@ I do my web-development service freelancing based.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anowar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anowar-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anowar-dev" alt="anowar-dev" /></a> </p>
 
 - 🔭 I’m currently working on [Perfumance](https://perfumance.netlify.app/)
 
