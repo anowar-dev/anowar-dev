@@ -1,5 +1,5 @@
-<h1 align="left">developer Anower</h1>
-<h3 align="left">Where Everything Begins with Code ?</h3>
+<h1 align="left">Developer Anower</h1>
+<h3 align="left">About Me</h3>
 
 
 Hi, I'm Md Anower Hossan, also known as Developer Anower! I'm a passionate web developer specializing in frontend development and working extensively with CMS platforms like WordPress and Shopify. I enjoy crafting digital solutions that are user-friendly, efficient, and impactful.
@@ -14,7 +14,7 @@ Feel free to explore my repositories for projects, tutorials, and code snippets.
 
 - 🔭 I’m currently working on [InnovativeSkills](https://innovativeskillsbd.com/)
 
-- 💬 Ask me about **PHP, Laravel, MySQL, Bootstrap, CSS, HTML**
+- 💬 Ask me about **HTM, CSS, JavaScript, Web development, CMS, PHP, Laravel, MySQL**
 
 - 📫 How to reach me **anowerhossan1988@gmail.com**
 
