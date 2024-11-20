@@ -1,12 +1,12 @@
-<h1 align="left">Hi 👋, I'm Md. Anower Hossan.</h1>
-<h3 align="left">A passionate web developer.</h3>
+<h1 align="left">developer Anower</h1>
+<h3 align="left">Where Everything Begins with Code ?</h3>
 
-<p align="left"><img src="https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/308010735_510981131031612_2332890458961415596_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH1atS7UoJ8JslDzOnmDeCmC8OCDEF8WukLw4IMQXxa6WSEHRF0d2UAa2FY13I8tjxsfXo-FQpqEILDSBmxy-Gg&_nc_ohc=92uMl69tjQgAX_213w3&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AfD62nPWmGkeBslW6eCEqNpz6SThBFa8Hoq8otxvdS0rug&oe=641F3505" alt="Cover Photo"><p/>
-I am professional Full Stack Web Developer with PHP Laravel. 
-I can  develop any kinds of new dynamic  website using PHP Laravel and customize Existing Laravel based web Application. 
-My HTML, CSS, Bootstrap skills are  very strong and I can convert PSD, XD, Figma to HTML with pixel perfect mobile responsive. I also can design web site with Shopify. Shopify liquid skills are very good.
- I always evaluate the client's needs and build projects according to the client's requirements. That's why clients will be 100% satisfied on my work.
-I do my web-development service freelancing based.
+
+Hi, I'm Md Anower Hossan, also known as Developer Anower! I'm a passionate web developer specializing in frontend development and working extensively with CMS platforms like WordPress and Shopify. I enjoy crafting digital solutions that are user-friendly, efficient, and impactful.
+
+Beyond development, I'm dedicated to sharing knowledge and helping others grow in their coding journey. Whether it's through tutorials, tips, or mentorship, I believe in empowering others to achieve their goals in the tech world.
+
+Feel free to explore my repositories for projects, tutorials, and code snippets. Let's connect and collaborate to build amazing things!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anowar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anowar-dev" /> </p>
