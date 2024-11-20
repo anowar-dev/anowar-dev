@@ -20,9 +20,10 @@ Feel free to explore my repositories for projects, tutorials, and code snippets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdanowe97643245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdanowe97643245" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-anower-hossan-50938557/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-anower-hossan-50938557/" height="30" width="40" /></a>
-<a href="https://fb.com/anowerofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anowerofficial" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/@DeveloperAnower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anowerofficial" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developeranower/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-anower-hossan-50938557/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/developeranower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anowerofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
